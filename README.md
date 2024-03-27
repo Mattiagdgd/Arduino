@@ -72,7 +72,7 @@ Documentation for latest development version: https://arduino-esp8266.readthedoc
 
 ### Issues and support ###
 
-If you encounter an issue which you think is a bug in the ESP8266 Arduino Core or the associated libraries, or if you want to propose an enhancement, you are welcome to submit it here on Github: https://github.com/esp8266/Arduino/issues.
+If you encounter an issue which you think is a bug in the ESP8266 Arduino Core or the associated libraries, or if you want to propose an enhancement, you are welcome to submit it here on Github: https://github.com/Mattiagdgd/Arduino/issues.
 
 Please provide as much context as possible, as well as the information requested in the issue template:
 
